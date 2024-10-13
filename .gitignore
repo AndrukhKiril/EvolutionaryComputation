@@ -1,0 +1,5 @@
+.venv/
+Solution checker.xlsx
+transform_into_cells.py
+TSPA.csv
+TSPB.csv
